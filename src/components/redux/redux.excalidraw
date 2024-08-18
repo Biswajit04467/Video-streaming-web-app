@@ -39,8 +39,8 @@
     },
     {
       "type": "text",
-      "version": 92,
-      "versionNonce": 241146684,
+      "version": 93,
+      "versionNonce": 652041477,
       "isDeleted": false,
       "id": "aJPMukg60Q54-phhSZrT8",
       "fillStyle": "solid",
@@ -60,7 +60,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1723785846731,
+      "updated": 1724001356057,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -71,7 +71,7 @@
       "containerId": null,
       "originalText": "Store",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
@@ -145,8 +145,8 @@
     },
     {
       "type": "text",
-      "version": 36,
-      "versionNonce": 624186884,
+      "version": 37,
+      "versionNonce": 1173791179,
       "isDeleted": false,
       "id": "qMZ0Rn8IIxsXfZu_ZO8Sp",
       "fillStyle": "solid",
@@ -171,7 +171,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1723785846731,
+      "updated": 1724001356058,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -182,7 +182,7 @@
       "containerId": null,
       "originalText": "Slice",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "text",
@@ -387,8 +387,8 @@
     },
     {
       "type": "text",
-      "version": 19,
-      "versionNonce": 576611460,
+      "version": 20,
+      "versionNonce": 865432677,
       "isDeleted": false,
       "id": "iZVOVjDZjnryVi7j2nRx4",
       "fillStyle": "solid",
@@ -408,7 +408,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1723785846731,
+      "updated": 1724001356060,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -419,7 +419,7 @@
       "containerId": null,
       "originalText": "Reducers",
       "lineHeight": 1.25,
-      "baseline": 21
+      "baseline": 18
     },
     {
       "type": "rectangle",
@@ -537,8 +537,8 @@
     },
     {
       "type": "text",
-      "version": 39,
-      "versionNonce": 103420804,
+      "version": 40,
+      "versionNonce": 301346923,
       "isDeleted": false,
       "id": "lHHuYhqi5SO2tAHy5j6YB",
       "fillStyle": "solid",
@@ -558,7 +558,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1723785846731,
+      "updated": 1724001356061,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -569,7 +569,7 @@
       "containerId": null,
       "originalText": "Index.js",
       "lineHeight": 1.25,
-      "baseline": 29
+      "baseline": 24
     },
     {
       "type": "ellipse",
@@ -602,8 +602,8 @@
     },
     {
       "type": "text",
-      "version": 94,
-      "versionNonce": 438633220,
+      "version": 95,
+      "versionNonce": 1410572229,
       "isDeleted": false,
       "id": "hVUuVOP-oQ3lg3MDq2-vC",
       "fillStyle": "solid",
@@ -623,7 +623,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1723785846732,
+      "updated": 1724001356062,
       "link": null,
       "locked": false,
       "fontSize": 28,
@@ -634,7 +634,7 @@
       "containerId": null,
       "originalText": "need t wrap the whole components \nunder the provider",
       "lineHeight": 1.25,
-      "baseline": 64
+      "baseline": 59
     },
     {
       "type": "line",
