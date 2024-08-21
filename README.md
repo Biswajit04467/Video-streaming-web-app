@@ -19,6 +19,7 @@
 - Add hardcoded values to the constants file
 
 
+
 19/08
 
  - Regiter TMDB API & create an app & get access token
@@ -32,6 +33,13 @@
  - Embedded the Yotube video and make it autoplay and mute
  - Tailwind Classes to make Main Container look awesome
 
+21/08
+- Build Secondary Component
+- Build Movie List
+- build Movie Card
+- TMDB Image CDN URL
+- Made the Browsre page amazing with Tailwind CSS
+- usePopularMovies Custom hook
 
 # Features
 - Login/Sign Up
